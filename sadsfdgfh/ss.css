@@ -1,0 +1,39 @@
+
+#nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid;
+    background-color: cornsilk;
+    color: red;
+}
+img{
+    width: 25%;
+    margin-left: 50px;
+}
+#bb{
+    display: flex;
+    /* border: 2px solid; */
+    /* width: 300px; */
+    justify-content: space-evenly;
+    margin-right: 220px;
+
+}
+#bb li{
+    margin: 0px 0px 0px 100px;
+}
+#cc{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 80px;
+    /* border: 2px solid; */
+    /* width: 300px; */
+    
+
+}
+#cc li{
+    margin: 0px 0px 0px 100px;
+}
+#nav li{
+    list-style: none;
+}
